@@ -622,7 +622,7 @@ return {
         success_revoked_s_from_s_runtime_only = 'Revogado %s de %s (apenas em memória)',
         success_granted_s_access_to_s_for = 'Concedido acesso de %s a %s por %d minuto%s',
         success_revoked_temporary_s_access_from_s = 'Revogado acesso temporário de %s a %s',
-        success_set_s_s_s_to_s = 'Definido %2$s de %1$s para %3$s',
+        success_set_s_s_s_to_s = '%s agora tem %s definido como %s',
         success_warned_s = 'Avisado %s',
         success_kicked_s = 'Expulso %s',
         success_banned_s_s_s = 'Banido %s (%s).%s',
